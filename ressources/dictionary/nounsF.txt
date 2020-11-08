@@ -1,0 +1,4 @@
+blasa:place
+bola:empoule
+tbla:table
+lbanka:la banque
