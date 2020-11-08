@@ -18,7 +18,7 @@ Created using flex and bison: tools developed primarily for context-free languag
 # You want to compile it yourself?
 .l and .y files can be compiled with EditPlus on windows and msys64 (version?) and make on Linux (gcc 9).
 
-For windows (for Linux refer to 
+For windows (for Linux refer to the make file):
 
 `gcc -std=c99 lex.yy.c liste.c words.c y.tab.c -o resultat`
 
